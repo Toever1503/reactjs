@@ -1,0 +1,29 @@
+.product-list {
+    display: grid;
+    padding: 10px;
+    grid-template-columns: repeat(auto-fill, 200px);
+    gap: 10px;
+}
+
+.product-list .product-item {
+    min-height: 335px;
+    border: 1px solid #f7d6d663;
+    background: white;
+}
+
+.product-list .product-item img {
+    width: 100%;
+    height: 100%;
+}
+
+.product-item .product-title {
+    font-size: 14px;
+}
+
+.product-list .product-item .add-item {
+    background-color: aquamarine;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 35%;
+}

@@ -1,0 +1,23 @@
+.feature-list {
+    width: 10%;
+    min-height: 1000px;
+    background-color: rgb(84, 194, 238);
+    border-right: 1px solid gray;
+}
+
+.feature-list .feature-item {
+    border-top: 1px solid gray;
+    padding: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.feature-item.active {
+    background-color: burlywood;
+}
+
+.feature-content {
+    width: 90%;
+    padding: 10px;
+    position: relative;
+    background: #efefef;
+}

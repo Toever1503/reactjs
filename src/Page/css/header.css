@@ -1,0 +1,31 @@
+header{
+    background-color: #f3d8d38c;
+}
+
+header nav {
+    height: 50px;
+    display: flex;
+}
+
+header .logo-web {
+    background-size: cover;
+    background-image: url('https://seeklogo.com/images/M/manga-logo-26D5521A34-seeklogo.com.png');
+    height: 50px;
+    width: 140px;
+}
+
+header .main-menu {
+    height: 100%;
+    height: 100%;
+    display: flex;
+}
+
+header .main-menu .menu-item {
+    margin: 15px;
+}
+
+header .main-menu .menu-item a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+}

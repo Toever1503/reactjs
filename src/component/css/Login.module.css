@@ -1,0 +1,19 @@
+.user_login {
+    width: 500px;
+    margin: 100px auto;
+    padding: 20px;
+    background: whitesmoke;
+    border-radius: 5px;
+}
+
+.login_method {
+    margin-top: 10px;
+    border-top: 1px solid gainsboro;
+    display: grid;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+.login_via_google {
+    margin: 10px auto;
+}

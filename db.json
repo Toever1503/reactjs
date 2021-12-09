@@ -1,0 +1,521 @@
+{
+  "User": [
+    {
+      "id": 1637418399770,
+      "username": "haunv1503",
+      "email": "haunvph13497@fpt.edu.vn",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": 1637563375324,
+      "username": "jqIfNR0XFhRwJQChfGovk8JMEhf1",
+      "password": "",
+      "role": "user",
+      "email": "haumu15@gmail.com"
+    },
+    {
+      "id": 1637563453875,
+      "username": "admin",
+      "email": "a@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 1638175542444,
+      "username": "haunv15032",
+      "email": "a3@gmail.com",
+      "password": "111111",
+      "role": "user"
+    }
+  ],
+  "Product": [
+    {
+      "name": "Incredible Concrete Chips",
+      "image": "http://placeimg.com/640/480/food",
+      "prices": "530.00",
+      "desc": "Error dolor modi ipsam alias. Doloribus ut est itaque consequatur omnis corporis est omnis. Sint libero quae voluptate voluptate.",
+      "cats": [
+        1,
+        2,
+        3
+      ],
+      "dateUpdate": 1637737714,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 25",
+      "ship": 2,
+      "quantity": 72,
+      "DanhMuc": 2,
+      "id": "25"
+    },
+    {
+      "name": "Unbranded Cotton Chicken",
+      "image": "http://placeimg.com/640/480/people",
+      "prices": "810.00",
+      "desc": "Accusantium similique corporis est dolores qui. Nostrum quia voluptas et quo cupiditate eum. Omnis aut quam totam reprehenderit ut. Consectetur cumque vel et quisquam optio qui quia. Dolorum et omnis fugiat placeat.",
+      "cats": [
+        1,
+        2,
+        3
+      ],
+      "dateUpdate": 1637737654,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 26",
+      "ship": 26,
+      "quantity": 44,
+      "DanhMuc": 2,
+      "id": "26"
+    },
+    {
+      "name": "Sleek Plastic Keyboard",
+      "image": "http://placeimg.com/640/480/nature",
+      "prices": "996.00",
+      "desc": "Consequatur amet suscipit. Impedit error nemo dolorem aut sunt. Est excepturi ut deserunt corporis.",
+      "cats": [
+        1,
+        2,
+        3
+      ],
+      "dateUpdate": 1637737594,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 27",
+      "ship": 35,
+      "quantity": 4,
+      "DanhMuc": 2,
+      "id": "27"
+    },
+    {
+      "name": "Refined Concrete Ball",
+      "image": "http://placeimg.com/640/480/animals",
+      "prices": "336.00",
+      "desc": "Deserunt debitis ea suscipit consequuntur reiciendis voluptas laudantium accusamus sint. Magni veniam delectus. Sint tempora cum voluptas sit tenetur blanditiis nihil non quia. Ipsa atque omnis placeat velit. Hic quis perferendis ratione aperiam animi asperiores id ut magnam.",
+      "cats": [
+        1,
+        2,
+        3
+      ],
+      "dateUpdate": 1637737534,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 28",
+      "ship": 56,
+      "quantity": 10,
+      "DanhMuc": 2,
+      "id": "28"
+    },
+    {
+      "name": "Gorgeous Steel Soap",
+      "image": "http://placeimg.com/640/480/sports",
+      "prices": "666.00",
+      "desc": "Minus et porro velit omnis qui distinctio culpa. Odit eaque autem libero. Porro adipisci eum pariatur tenetur eum est quia est. Accusamus ut voluptate rem laudantium expedita eius officiis aut possimus.",
+      "cats": [
+        2,
+        3,
+        4
+      ],
+      "dateUpdate": 1637737474,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 29",
+      "ship": 94,
+      "quantity": 93,
+      "DanhMuc": 2,
+      "id": "29"
+    },
+    {
+      "name": "Handcrafted Soft Table",
+      "image": "http://placeimg.com/640/480/nature",
+      "prices": "581.00",
+      "desc": "Officiis necessitatibus sint. Quas explicabo id voluptatem voluptate suscipit pariatur sit fugiat sit.",
+      "cats": [
+        2,
+        3,
+        4
+      ],
+      "dateUpdate": 1637737414,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 30",
+      "ship": 34,
+      "quantity": 23,
+      "DanhMuc": 2,
+      "id": "30"
+    },
+    {
+      "name": "Gorgeous Frozen Car",
+      "image": "http://placeimg.com/640/480/sports",
+      "prices": "201.00",
+      "desc": "Enim est debitis et qui amet expedita repellendus sit qui. Itaque omnis nesciunt. Beatae repellendus animi occaecati ullam.",
+      "cats": [
+        2,
+        3,
+        4
+      ],
+      "dateUpdate": 1637737354,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 31",
+      "ship": 48,
+      "quantity": 83,
+      "DanhMuc": 2,
+      "id": "31"
+    },
+    {
+      "name": "Awesome Fresh Hat",
+      "image": "http://placeimg.com/640/480/nature",
+      "prices": "757.00",
+      "desc": "Tempore sapiente praesentium in quis quam ea. Sint iusto exercitationem quaerat. Ipsam tempora commodi provident quia ut.",
+      "cats": [
+        2,
+        3,
+        4
+      ],
+      "dateUpdate": 1637737294,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 32",
+      "ship": 31,
+      "quantity": 89,
+      "DanhMuc": 2,
+      "id": "32"
+    },
+    {
+      "name": "Refined Fresh Tuna",
+      "image": "http://placeimg.com/640/480/nature",
+      "prices": "952.00",
+      "desc": "Natus harum est eius aperiam reprehenderit. Dicta odio consequatur reiciendis molestias accusamus modi illum eveniet delectus. Unde eaque nobis omnis quisquam delectus. Pariatur pariatur reiciendis ad. Fugit sunt nesciunt totam nulla vero dolores hic ut. Incidunt sint maiores molestias culpa itaque.",
+      "cats": [
+        2,
+        3,
+        4
+      ],
+      "dateUpdate": 1637737234,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 33",
+      "ship": 21,
+      "quantity": 80,
+      "DanhMuc": 2,
+      "id": "33"
+    },
+    {
+      "name": "Ergonomic Frozen Chair",
+      "image": "http://placeimg.com/640/480/transport",
+      "prices": "259.00",
+      "desc": "Perferendis libero recusandae ex minus. Accusamus aut ullam adipisci sed vero. Id inventore laboriosam eum cumque suscipit neque cumque. Ipsum facere nihil laudantium sint rerum. Magnam dolor tempore libero cum. Illo dolores voluptatem dolore minima at voluptatibus et aut recusandae.",
+      "cats": [
+        2,
+        3,
+        4
+      ],
+      "dateUpdate": 1637737174,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 34",
+      "ship": 21,
+      "quantity": 64,
+      "DanhMuc": 2,
+      "id": "34"
+    },
+    {
+      "name": "Intelligent Soft Salad",
+      "image": "http://placeimg.com/640/480/abstract",
+      "prices": "776.00",
+      "desc": "Quos blanditiis ut qui doloremque est id hic perspiciatis. Fuga maxime repellendus praesentium. Et labore non repellendus dolor earum sed placeat quibusdam ad. Voluptas corrupti nostrum quia fugit sit illo recusandae ut quaerat. Officia aut et assumenda ducimus saepe pariatur eveniet ipsum. Corporis minima nihil blanditiis iure.",
+      "cats": [
+        2,
+        3,
+        4
+      ],
+      "dateUpdate": 1637737114,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 35",
+      "ship": 10,
+      "quantity": 98,
+      "DanhMuc": 2,
+      "id": "35"
+    },
+    {
+      "name": "Licensed Steel Chips",
+      "image": "http://placeimg.com/640/480/food",
+      "prices": "508.00",
+      "desc": "Quam a accusantium ipsa molestiae eius et fuga enim itaque. Ipsa sequi facilis dolore. Eligendi culpa corrupti recusandae minima deleniti.",
+      "cats": [
+        18,
+        19,
+        20
+      ],
+      "dateUpdate": 1637737054,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 36",
+      "ship": 45,
+      "quantity": 38,
+      "DanhMuc": 2,
+      "id": "36"
+    },
+    {
+      "name": "Gorgeous Steel Keyboard",
+      "image": "http://placeimg.com/640/480/sports",
+      "prices": "360.00",
+      "desc": "Maxime ipsam ducimus fugiat. Voluptatum eaque ut voluptates nam. Repudiandae aliquid rerum non ut similique accusantium. Nihil libero quam quia temporibus maiores. Nihil eos alias ullam temporibus corrupti tempore enim consequatur quia.",
+      "cats": [
+        18,
+        19,
+        20
+      ],
+      "dateUpdate": 1637736994,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "banner",
+      "ship": 79,
+      "quantity": 79,
+      "DanhMuc": 2,
+      "id": "37"
+    },
+    {
+      "name": "Rustic Rubber Gloves",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "prices": "955.00",
+      "desc": "Mollitia perferendis delectus tenetur vero ut omnis sapiente tempore ea. Vero quo quasi omnis aut quod blanditiis. Ut laborum aut. Sequi expedita dolor quo quia eligendi et nihil aliquid. Ratione ad consequatur aperiam maiores. Rerum nesciunt vel voluptate natus veritatis saepe quia minima.",
+      "cats": [
+        18,
+        19,
+        20
+      ],
+      "dateUpdate": 1637736934,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "banner",
+      "ship": 35,
+      "quantity": 75,
+      "DanhMuc": 2,
+      "id": "38"
+    },
+    {
+      "name": "Fantastic Frozen Table",
+      "image": "http://placeimg.com/640/480/abstract",
+      "prices": "139.00",
+      "desc": "Vero possimus pariatur. Ab et pariatur ut iure consequatur provident.",
+      "cats": [
+        "1",
+        "2"
+      ],
+      "dateUpdate": 1638170909.852,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "banner",
+      "ship": "70",
+      "quantity": 86,
+      "DanhMuc": 2,
+      "id": "39"
+    },
+    {
+      "name": "Fantastic Wooden Cheese",
+      "image": "http://placeimg.com/640/480/business",
+      "prices": "358.00",
+      "desc": "Ipsa sit consequuntur nostrum mollitia inventore accusamus consequatur tempora. Aut laudantium nesciunt vitae alias. Et illum rerum quo quos deserunt. Iusto enim qui consectetur dolor.",
+      "cats": [
+        18,
+        19,
+        20
+      ],
+      "dateUpdate": 1638172939,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 1",
+      "ship": 55,
+      "quantity": 50,
+      "DanhMuc": 1,
+      "id": "1"
+    },
+    {
+      "name": "Refined Metal Gloves",
+      "image": "http://placeimg.com/640/480/business",
+      "prices": "56.00",
+      "desc": "Aspernatur et commodi eveniet eveniet aut voluptatem molestiae. Dolorem et ipsam vitae laudantium. Voluptatem culpa enim dignissimos voluptas.",
+      "cats": [
+        18,
+        19,
+        20
+      ],
+      "dateUpdate": 1638172879,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 2",
+      "ship": 54,
+      "quantity": 75,
+      "DanhMuc": 1,
+      "id": "2"
+    },
+    {
+      "name": "Intelligent Plastic Chicken",
+      "image": "http://placeimg.com/640/480/abstract",
+      "prices": "998.00",
+      "desc": "Quibusdam nihil animi soluta. Omnis sed earum iure quam non.",
+      "cats": [
+        18,
+        19,
+        20
+      ],
+      "dateUpdate": 1638172819,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 3",
+      "ship": 66,
+      "quantity": 75,
+      "DanhMuc": 1,
+      "id": "3"
+    },
+    {
+      "name": "Handcrafted Fresh Shirt",
+      "image": "http://placeimg.com/640/480/nature",
+      "prices": "443.00",
+      "desc": "Inventore enim voluptate adipisci explicabo aliquam dolorem. Totam et vel non hic et nobis unde est. Voluptatem pariatur illo necessitatibus velit magnam perspiciatis voluptatibus magni perferendis. Omnis explicabo in vel.",
+      "cats": [
+        14
+      ],
+      "dateUpdate": 1638172759,
+      "imageBanner": "http://placeimg.com/640/480/fashion",
+      "status": "status 4",
+      "ship": 46,
+      "quantity": 46,
+      "DanhMuc": 1,
+      "id": "4"
+    },
+    {
+      "name": "animenews.life",
+      "desc": "san pham 2",
+      "prices": "1414",
+      "image": "",
+      "cats": [
+        "25",
+        "3"
+      ],
+      "dateUpdate": 1638522189.773,
+      "ship": "24",
+      "quantity": "141",
+      "DanhMuc": 1,
+      "id": "EaKMJB-"
+    }
+  ],
+  "Cat": [
+    {
+      "name": "laborum",
+      "id": "1"
+    },
+    {
+      "name": "dolor",
+      "id": "2"
+    },
+    {
+      "name": "voluptate",
+      "id": "3"
+    },
+    {
+      "name": "aut",
+      "id": "4"
+    },
+    {
+      "name": "velit",
+      "id": "5"
+    },
+    {
+      "name": "explicabo",
+      "id": "6"
+    },
+    {
+      "name": "iste",
+      "id": "7"
+    },
+    {
+      "name": "sed",
+      "id": "8"
+    },
+    {
+      "name": "fugit",
+      "id": "9"
+    },
+    {
+      "name": "animi",
+      "id": "10"
+    },
+    {
+      "name": "eos",
+      "id": "11"
+    },
+    {
+      "name": "rerum",
+      "id": "12"
+    },
+    {
+      "name": "non",
+      "id": "13"
+    },
+    {
+      "name": "aut",
+      "id": "14"
+    },
+    {
+      "name": "magnam",
+      "id": "15"
+    },
+    {
+      "name": "dolor",
+      "id": "16"
+    },
+    {
+      "name": "sint",
+      "id": "17"
+    },
+    {
+      "name": "vel",
+      "id": "18"
+    },
+    {
+      "name": "odio",
+      "id": "19"
+    },
+    {
+      "name": "quaerat",
+      "id": "20"
+    },
+    {
+      "name": "delectus",
+      "id": "21"
+    },
+    {
+      "name": "voluptatem",
+      "id": "22"
+    },
+    {
+      "name": "qui",
+      "id": "23"
+    },
+    {
+      "name": "rerum",
+      "id": "24"
+    },
+    {
+      "name": "ratione",
+      "id": "25"
+    },
+    {
+      "name": "quam",
+      "id": "26"
+    },
+    {
+      "name": "eius",
+      "id": "27"
+    },
+    {
+      "name": "eum",
+      "id": "28"
+    },
+    {
+      "name": "et",
+      "id": "29"
+    },
+    {
+      "name": "et",
+      "id": "30"
+    }
+  ],
+  "DanhMuc": [
+    {
+      "id": 1,
+      "name": "Sản phẩm 1"
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm 2"
+    }
+  ],
+  "cart": []
+}
